@@ -60,7 +60,8 @@ This is a personal financial management web application that helps you track you
 8. Set up the environment variables by creating a .env file
 9. Start the express server.
      ```bash
-   npm run start ```
+   npm run start
+     ```
    
 ## License
 
