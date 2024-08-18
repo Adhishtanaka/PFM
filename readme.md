@@ -80,3 +80,6 @@ Contributions are welcome! If you would like to contribute, please follow these 
 
 Please make sure your code follows the project’s coding style and that all tests pass before submitting a pull request.
 
+## Contact 
+
+If you have any questions or suggestions, feel free to contact Me.
